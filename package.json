@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ChernenkoNS.github.io/goit_js_hw_10/",
+  "homepage": "https://ChernenkoNS.github.io/goit_js_hw_10",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit_js_hw_10/"
